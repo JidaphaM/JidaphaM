@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro+Text:wght@600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Sukhumvit+Set:wght@400;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sukhumvit-set: "Sukhumvit Set";
+  --font-sf-pro-text: "SF Pro Text";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-midnightblue: #020066;
+  --color-black: #000;
+
+  /* border radiuses */
+  --br-81xl: 100px;
+}

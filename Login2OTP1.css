@@ -1,0 +1,288 @@
+.bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, #d0d0d0);
+  width: 375px;
+  height: 812px;
+}
+.combined-shape-icon {
+  position: relative;
+  width: 800px;
+  height: 491px;
+  display: none;
+  opacity: 0.05;
+  mix-blend-mode: normal;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.border,
+.cap-icon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.cap-icon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: var(--color-black);
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifi-icon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellular-connection-icon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.span {
+  letter-spacing: -0.28px;
+}
+.time,
+.time-style {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba1 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.iphone-xstatus-barsstatus-ba {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+}
+.home-indicator {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67px);
+  border-radius: var(--br-81xl);
+  background-color: var(--color-black);
+  width: 134px;
+  height: 5px;
+}
+.barshome-indicatoriphonelig,
+.icoclose-icon {
+  position: absolute;
+  top: 778px;
+  left: 121px;
+  width: 134px;
+  height: 34px;
+}
+.icoclose-icon {
+  top: 57px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.rectangle1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 12px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.08);
+}
+.shape-icon {
+  position: relative;
+  width: 51.15px;
+  height: 63.94px;
+}
+.shape-icon1,
+.shape-icon2 {
+  position: relative;
+  width: 17.07px;
+  height: 17.07px;
+}
+.shape-icon2 {
+  width: 6.39px;
+  height: 9.59px;
+}
+.path-icon,
+.path-icon1,
+.path-icon2 {
+  position: absolute;
+  height: 2.66%;
+  width: 7.99%;
+  top: 81.93%;
+  right: 57.99%;
+  bottom: 15.41%;
+  left: 34.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.path-icon1,
+.path-icon2 {
+  width: 4%;
+  top: 53.56%;
+  right: 73.98%;
+  bottom: 43.78%;
+  left: 22.03%;
+}
+.path-icon2 {
+  width: 15.98%;
+  right: 55.33%;
+  left: 28.69%;
+}
+.icoverify {
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+.lock,
+.shadows-icon {
+  position: absolute;
+  height: 19.23%;
+  width: 24.46%;
+  top: 7.21%;
+  right: 37.61%;
+  bottom: 73.56%;
+  left: 37.92%;
+}
+.shadows-icon {
+  height: 52.27%;
+  width: 27.61%;
+  top: 61.36%;
+  right: 36.5%;
+  bottom: -13.64%;
+  left: 35.89%;
+  border-radius: var(--br-81xl);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.button {
+  position: absolute;
+  height: 100%;
+  width: 100.31%;
+  top: 0;
+  right: -0.31%;
+  bottom: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: var(--color-midnightblue);
+}
+.otp {
+  top: calc(50% - 11px);
+  left: 39.57%;
+  font-weight: 600;
+}
+.bt-agree,
+.otp,
+.otp1 {
+  position: absolute;
+}
+.bt-agree {
+  height: 10.58%;
+  width: 99.69%;
+  top: 66.83%;
+  right: 0;
+  bottom: 22.6%;
+  left: 0.31%;
+  cursor: pointer;
+  font-size: var(--font-size-sm);
+}
+.otp1 {
+  width: 87.77%;
+  top: calc(50% - 58px);
+  left: 6.12%;
+  display: inline-block;
+  color: var(--color-black);
+}
+.xxx-8998 {
+  top: calc(50% - 17px);
+  left: 29.97%;
+  font-weight: 600;
+  color: var(--color-midnightblue);
+  text-align: left;
+}
+.dialog,
+.div,
+.xxx-8998 {
+  position: absolute;
+}
+.div {
+  top: calc(50% + 138px);
+  left: 9.17%;
+  font-size: 11px;
+  color: #7a7a7a;
+}
+.dialog {
+  top: 218px;
+  left: 24px;
+  width: 327px;
+  height: 416px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-sukhumvit-set);
+}
+.login-2otp-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro-text);
+}
