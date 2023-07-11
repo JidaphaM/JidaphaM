@@ -1,0 +1,311 @@
+.bg,
+.field-icon {
+  position: absolute;
+}
+.bg {
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, #d0d0d0);
+  width: 375px;
+  height: 812px;
+}
+.field-icon {
+  top: 213.5px;
+  left: 98.5px;
+  width: 175px;
+  height: 15px;
+}
+.pin-code,
+.pin-code1 {
+  position: absolute;
+  top: 175px;
+  left: 44px;
+  display: inline-block;
+  width: 287px;
+}
+.pin-code1 {
+  top: 717px;
+  font-size: 16px;
+  display: none;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.border,
+.cap-icon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.cap-icon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: #000;
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifi-icon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellular-connection-icon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.span {
+  letter-spacing: -0.28px;
+}
+.time,
+.time-style {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba1 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.iphone-xstatus-barsstatus-ba {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+  font-size: 14px;
+  font-family: "SF Pro Text";
+}
+.home-indicator {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67px);
+  border-radius: 100px;
+  background-color: #000;
+  width: 134px;
+  height: 5px;
+}
+.barshome-indicatoriphonelig {
+  position: absolute;
+  top: 778px;
+  left: 121px;
+  width: 134px;
+  height: 34px;
+}
+.base,
+.div1 {
+  position: absolute;
+}
+.base {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 0.9px solid #979797;
+  box-sizing: border-box;
+}
+.div1 {
+  width: 23.77%;
+  top: calc(50% - 25px);
+  left: 38.1%;
+  display: inline-block;
+  height: 49.12px;
+}
+.div,
+.div2 {
+  height: 19.59%;
+  width: 26.67%;
+  top: 0;
+  bottom: 80.41%;
+}
+.div {
+  position: absolute;
+  right: 72.98%;
+  left: 0.35%;
+}
+.div2 {
+  right: 36.49%;
+  left: 36.84%;
+}
+.div2,
+.div4,
+.div6 {
+  position: absolute;
+}
+.div4 {
+  height: 19.59%;
+  width: 26.67%;
+  top: 0;
+  right: 0;
+  bottom: 80.41%;
+  left: 73.33%;
+}
+.div6 {
+  right: 72.98%;
+  left: 0.35%;
+}
+.div10,
+.div6,
+.div8 {
+  height: 19.59%;
+  width: 26.67%;
+  top: 26.8%;
+  bottom: 53.61%;
+}
+.div8 {
+  position: absolute;
+  right: 36.49%;
+  left: 36.84%;
+}
+.div10 {
+  right: 0;
+  left: 73.33%;
+}
+.div10,
+.div12,
+.div13 {
+  position: absolute;
+}
+.div13 {
+  width: 23.77%;
+  top: calc(50% - 24.21px);
+  left: 38.89%;
+  display: inline-block;
+  height: 49.12px;
+}
+.div12 {
+  height: 19.59%;
+  width: 26.67%;
+  top: 53.61%;
+  right: 72.98%;
+  bottom: 26.8%;
+  left: 0.35%;
+}
+.div15 {
+  width: 22.33%;
+  top: calc(50% - 24px);
+  left: 39.41%;
+  display: inline-block;
+  height: 48px;
+}
+.div14,
+.div15,
+.div17 {
+  position: absolute;
+}
+.div14 {
+  height: 19.59%;
+  width: 26.67%;
+  top: 53.61%;
+  right: 36.49%;
+  bottom: 26.8%;
+  left: 36.84%;
+}
+.div17 {
+  width: 23.77%;
+  top: calc(50% - 24px);
+  left: 38.1%;
+  display: inline-block;
+  height: 49.12px;
+}
+.div16,
+.div18 {
+  position: absolute;
+  height: 19.59%;
+  width: 26.67%;
+  top: 53.61%;
+  right: 0;
+  bottom: 26.8%;
+  left: 73.33%;
+}
+.div18 {
+  top: 80.41%;
+  right: 36.49%;
+  bottom: 0;
+  left: 36.84%;
+}
+.face-id-icon {
+  position: absolute;
+  top: 606px;
+  left: 44px;
+  width: 75.88px;
+  height: 76px;
+  display: none;
+}
+.delete-icon,
+.numpad {
+  position: absolute;
+  top: 312px;
+  left: 209px;
+  width: 76px;
+  height: 76px;
+}
+.numpad {
+  height: 47.78%;
+  width: 76%;
+  top: 36.21%;
+  right: 12.27%;
+  bottom: 16.01%;
+  left: 11.73%;
+  cursor: pointer;
+  font-size: 30px;
+  color: #646465;
+}
+.pincode-1 {
+  position: relative;
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 15px;
+  color: #000;
+  font-family: "Sukhumvit Set";
+}

@@ -1,0 +1,302 @@
+.bg,
+.bg1 {
+  position: absolute;
+  left: 0;
+  width: 375px;
+}
+.bg {
+  top: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, #d0d0d0);
+  height: 812px;
+}
+.bg1 {
+  top: 215px;
+  border-radius: 12px 12px 0 0;
+  background-color: #fff;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.16);
+  height: 597px;
+}
+.icoback-icon {
+  top: 57px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+}
+.b,
+.icoback-icon,
+.shape-icon {
+  position: absolute;
+}
+.b {
+  top: 246px;
+  left: 60px;
+  font-size: 20px;
+  text-align: left;
+}
+.shape-icon {
+  top: 10.97px;
+  left: 1.31px;
+  width: 20.69px;
+  height: 11.04px;
+}
+.shape-copy-3,
+.shape-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 5.81px;
+  width: 11.69px;
+  height: 1px;
+}
+.shape-copy-3 {
+  top: 6.5px;
+  width: 5.69px;
+}
+.shape-copy-2,
+.shape-copy-icon,
+.shape-icon2 {
+  position: absolute;
+  top: 13px;
+  left: 5.81px;
+  width: 11.69px;
+  height: 1px;
+}
+.shape-copy-2,
+.shape-icon2 {
+  top: 16px;
+}
+.shape-icon2 {
+  top: 1.31px;
+  left: 1.31px;
+  width: 20.69px;
+  height: 9.66px;
+}
+.ico,
+.icoterm {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.ico {
+  position: absolute;
+  top: 248px;
+  left: 24px;
+}
+.rectangle,
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  width: 375px;
+  height: 114px;
+}
+.rectangle {
+  top: 585px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0), #fff);
+}
+.rectangle1 {
+  top: 698px;
+  background-color: #fdfeff;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+}
+.shadows-icon {
+  position: absolute;
+  height: 41.07%;
+  width: 57.69%;
+  top: 48.21%;
+  right: 21.15%;
+  bottom: 10.71%;
+  left: 21.15%;
+  border-radius: 100px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.rectangle2 {
+  height: 78.57%;
+  width: 100%;
+  top: 10.71%;
+  right: 0;
+  bottom: 10.71%;
+  left: 0;
+  border-radius: 5px;
+  background-color: #00664f;
+}
+.bt-agree,
+.div,
+.rectangle2 {
+  position: absolute;
+}
+.div {
+  top: calc(50% - 11px);
+  left: 36.54%;
+  font-weight: 600;
+}
+.bt-agree {
+  top: 722px;
+  left: 195px;
+  width: 156px;
+  height: 56px;
+  cursor: pointer;
+  color: #fff;
+}
+.rectangle3 {
+  position: absolute;
+  height: 80.36%;
+  width: 100.64%;
+  top: 9.82%;
+  right: -0.32%;
+  bottom: 9.82%;
+  left: -0.32%;
+  border-radius: 5px;
+  background-color: #fff;
+  border: 1px solid #7db1a4;
+  box-sizing: border-box;
+}
+.div1 {
+  position: absolute;
+  top: calc(50% - 11px);
+  left: 37.82%;
+  font-weight: 600;
+}
+.bt-cancel {
+  position: absolute;
+  top: 722px;
+  left: 24px;
+  width: 156px;
+  height: 56px;
+  color: #00664f;
+}
+.rectangle4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.border,
+.cap-icon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.cap-icon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: #000;
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifi-icon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellular-connection-icon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.span {
+  letter-spacing: -0.28px;
+}
+.time,
+.time-style {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba1 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.iphone-xstatus-barsstatus-ba {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+  font-family: "SF Pro Text";
+}
+.home-indicator {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67px);
+  border-radius: 100px;
+  background-color: #000;
+  width: 134px;
+  height: 5px;
+}
+.barshome-indicatoriphonelig {
+  position: absolute;
+  top: 778px;
+  left: 121px;
+  width: 134px;
+  height: 34px;
+}
+.cgs-logo-icon,
+.line-icon {
+  position: absolute;
+  top: 295.5px;
+  left: 23.5px;
+  width: 328px;
+  height: 1px;
+}
+.cgs-logo-icon {
+  top: 82.23px;
+  left: 133px;
+  width: 109.42px;
+  height: 84.85px;
+  display: none;
+}
+.disclaimer {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+  font-family: "Sukhumvit Set";
+}

@@ -1,0 +1,385 @@
+.bg,
+.line-copy-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.bg {
+  background: radial-gradient(50% 50%at 50% 50%, #fff, #d0d0d0);
+  width: 375px;
+  height: 812px;
+}
+.line-copy-child {
+  height: 100%;
+  width: calc(100% - 12px);
+  right: 12px;
+  bottom: 0;
+}
+.rectangle-9-copy {
+  height: calc(100% - 0.5px);
+  top: 0;
+  bottom: 0.5px;
+  background-color: #b7b7b7;
+}
+.line-copy,
+.rectangle-9-copy,
+.rectangle-9-copy1 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.rectangle-9-copy1 {
+  height: calc(100% + 172px);
+  top: 174px;
+  bottom: -346px;
+  background-color: #b7b7b7;
+}
+.line-copy {
+  top: 58px;
+  height: 1px;
+  overflow: hidden;
+}
+.div,
+.password {
+  position: absolute;
+  top: calc(50% + 1.5px);
+  left: 0;
+}
+.password {
+  top: calc(50% - 29.5px);
+  font-size: 12px;
+  color: #494949;
+  display: none;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.field-password {
+  position: absolute;
+  top: 355px;
+  left: 24px;
+  width: 327px;
+  height: 59px;
+  overflow: hidden;
+}
+.div1,
+.div2 {
+  position: absolute;
+  top: calc(50% + 32px);
+  left: 12.27%;
+}
+.div2 {
+  left: 76.27%;
+  cursor: pointer;
+}
+.line-copy1,
+.line-copy2 {
+  position: absolute;
+  width: 25.6%;
+  top: 579px;
+  right: 67.73%;
+  left: 6.67%;
+  height: 1px;
+  overflow: hidden;
+}
+.line-copy2 {
+  width: 30.93%;
+  right: 60.53%;
+  left: 8.53%;
+}
+.cgs119288,
+.line {
+  position: absolute;
+  left: 0;
+}
+.line {
+  width: 100%;
+  top: 55px;
+  right: 0;
+  height: 1px;
+  overflow: hidden;
+}
+.cgs119288 {
+  top: calc(50% - 0px);
+}
+.checked-icon {
+  height: 28.57%;
+  width: 4.89%;
+  top: 48.21%;
+  right: 5.81%;
+  bottom: 23.21%;
+  left: 89.3%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.checked-icon,
+.rectangle,
+.username {
+  position: absolute;
+  display: none;
+}
+.rectangle {
+  height: 42.86%;
+  width: 0.61%;
+  top: 37.5%;
+  right: 42.2%;
+  bottom: 19.64%;
+  left: 57.19%;
+  background-color: #62d1ff;
+}
+.username {
+  top: calc(50% - 28px);
+  left: 0;
+  font-size: 12px;
+  color: #494949;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.filed-username {
+  position: absolute;
+  top: 279px;
+  left: 24px;
+  width: 327px;
+  height: 56px;
+  overflow: hidden;
+}
+.password1 {
+  position: absolute;
+  top: calc(50% + 162px);
+  left: 41.33%;
+  opacity: 0.7;
+  mix-blend-mode: normal;
+}
+.rectangle1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.border,
+.cap-icon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.cap-icon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: #000;
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifi-icon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellular-connection-icon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.span {
+  letter-spacing: -0.28px;
+}
+.time,
+.time-style {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba1 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.iphone-xstatus-barsstatus-ba {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+  text-align: center;
+  font-size: 14px;
+  color: #000;
+  font-family: "SF Pro Text";
+}
+.home-indicator {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67px);
+  border-radius: 100px;
+  background-color: #000;
+  width: 134px;
+  height: 5px;
+}
+.barshome-indicatoriphonelig,
+.login-4-child {
+  position: absolute;
+  top: 778px;
+  left: 121px;
+  width: 134px;
+  height: 34px;
+}
+.login-4-child {
+  top: 441px;
+  left: 24px;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 0.5px solid #b7b7b7;
+  box-sizing: border-box;
+  width: 16px;
+  height: 16px;
+}
+.shadows-icon {
+  position: absolute;
+  height: 52.27%;
+  width: 27.52%;
+  top: 61.36%;
+  right: 36.7%;
+  bottom: -13.64%;
+  left: 35.78%;
+  border-radius: 100px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.button {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 5px;
+  background-color: #00664f;
+}
+.bt-agree,
+.button,
+.otp {
+  position: absolute;
+}
+.otp {
+  top: calc(50% - 11px);
+  left: 41.59%;
+  font-weight: 600;
+}
+.bt-agree {
+  height: 5.42%;
+  width: 87.2%;
+  top: 61.08%;
+  right: 6.13%;
+  bottom: 33.5%;
+  left: 6.67%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+}
+.line-copy3 {
+  width: 30.93%;
+  top: 578px;
+  right: 8.53%;
+  left: 60.53%;
+  height: 1px;
+  overflow: hidden;
+}
+.button1,
+.line-copy3,
+.otp1 {
+  position: absolute;
+}
+.button1 {
+  height: 102.27%;
+  width: 100.31%;
+  top: -1.14%;
+  right: -0.15%;
+  bottom: -1.14%;
+  left: -0.15%;
+  border-radius: 5px;
+  border: 1px solid #7a7a7a;
+  box-sizing: border-box;
+}
+.otp1 {
+  top: 25%;
+  left: 22.02%;
+  font-weight: 600;
+}
+.bt-agree1 {
+  position: absolute;
+  height: 5.42%;
+  width: 87.2%;
+  top: 75.74%;
+  right: 6.13%;
+  bottom: 18.84%;
+  left: 6.67%;
+  text-align: center;
+  font-size: 14px;
+  color: #00664f;
+}
+.span1 {
+  font-weight: 600;
+}
+.div3 {
+  position: absolute;
+  top: 733px;
+  left: 120px;
+  font-size: 16px;
+  color: #494949;
+  text-align: center;
+  display: none;
+}
+.login-4 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 13px;
+  color: #646465;
+  font-family: "Sukhumvit Set";
+}

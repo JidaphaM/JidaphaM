@@ -55,7 +55,7 @@ const Login2OTP1 = () => {
           <div className="icoverify" />
         </div>
         <div className="bt-agree" onClick={onBtAgreeContainerClick}>
-          <img className="shadows-icon" alt="" src="/combined-shape.svg" />
+          <img className="shadows-icon" alt="" src="/shadows.svg" />
           <div className="button" />
           <div className="otp">ขอรหัส OTP</div>
         </div>

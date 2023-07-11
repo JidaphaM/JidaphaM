@@ -32,7 +32,7 @@
   top: 0;
   right: 2.33px;
   border-radius: 2.67px;
-  border: 1px solid var(--color-black);
+  border: 1px solid #000;
   box-sizing: border-box;
   width: 22px;
   height: 11.33px;
@@ -50,7 +50,7 @@
   top: 2px;
   right: 4.33px;
   border-radius: 1.33px;
-  background-color: var(--color-black);
+  background-color: #000;
   width: 18px;
   height: 7.33px;
 }
@@ -109,8 +109,8 @@
   position: absolute;
   bottom: 8px;
   left: calc(50% - 67px);
-  border-radius: var(--br-81xl);
-  background-color: var(--color-black);
+  border-radius: 100px;
+  background-color: #000;
   width: 134px;
   height: 5px;
 }
@@ -204,7 +204,7 @@
   right: 36.5%;
   bottom: -13.64%;
   left: 35.89%;
-  border-radius: var(--br-81xl);
+  border-radius: 100px;
   max-width: 100%;
   overflow: hidden;
   max-height: 100%;
@@ -219,7 +219,7 @@
   bottom: 0;
   left: 0;
   border-radius: 5px;
-  background-color: var(--color-midnightblue);
+  background-color: #00664f;
 }
 .otp {
   top: calc(50% - 11px);
@@ -239,20 +239,20 @@
   bottom: 22.6%;
   left: 0.31%;
   cursor: pointer;
-  font-size: var(--font-size-sm);
+  font-size: 14px;
 }
 .otp1 {
   width: 87.77%;
   top: calc(50% - 58px);
   left: 6.12%;
   display: inline-block;
-  color: var(--color-black);
+  color: #000;
 }
 .xxx-8998 {
   top: calc(50% - 17px);
   left: 29.97%;
   font-weight: 600;
-  color: var(--color-midnightblue);
+  color: #00664f;
   text-align: left;
 }
 .dialog,
@@ -271,18 +271,18 @@
   left: 24px;
   width: 327px;
   height: 416px;
-  font-size: var(--font-size-xl);
-  color: var(--color-white);
-  font-family: var(--font-sukhumvit-set);
+  font-size: 20px;
+  color: #fff;
+  font-family: "Sukhumvit Set";
 }
 .login-2otp-1 {
   position: relative;
-  background-color: var(--color-white);
+  background-color: #fff;
   width: 100%;
   height: 812px;
   overflow: hidden;
   text-align: center;
-  font-size: var(--font-size-sm);
-  color: var(--color-black);
-  font-family: var(--font-sf-pro-text);
+  font-size: 14px;
+  color: #000;
+  font-family: "SF Pro Text";
 }

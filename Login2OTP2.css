@@ -1,0 +1,644 @@
+.bg {
+  top: 0;
+  left: 0;
+  background: radial-gradient(50% 50%at 50% 50%, #fff, #d0d0d0);
+  width: 375px;
+  height: 812px;
+}
+.bg,
+.div,
+.div1 {
+  position: absolute;
+}
+.div {
+  top: 454px;
+  left: 140px;
+  font-weight: 600;
+  color: #00664f;
+}
+.div1 {
+  top: 418px;
+  left: 126px;
+  color: #494949;
+}
+.shadows-icon {
+  position: absolute;
+  height: 41.07%;
+  width: 27.61%;
+  top: 48.21%;
+  right: 36.5%;
+  bottom: 10.71%;
+  left: 35.89%;
+  border-radius: 100px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  display: none;
+}
+.button {
+  height: 100%;
+  width: 100.31%;
+  top: 0;
+  right: -0.31%;
+  bottom: 0;
+  left: 0;
+  border-radius: 6px;
+  background-color: #00664f;
+}
+.bt-agree,
+.button,
+.otp {
+  position: absolute;
+}
+.otp {
+  top: calc(50% - 15px);
+  left: 43.1%;
+  font-weight: 600;
+}
+.bt-agree {
+  height: 6.9%;
+  width: 86.93%;
+  top: 41.63%;
+  right: 6.4%;
+  bottom: 51.48%;
+  left: 6.67%;
+  display: none;
+  cursor: pointer;
+  font-size: 18px;
+  color: #fff;
+}
+.rectangle {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #e3edea;
+}
+.div2 {
+  position: absolute;
+  top: calc(50% - 19px);
+  left: 34.78%;
+  font-weight: 600;
+}
+.field,
+.field1,
+.field2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 46px;
+  height: 50px;
+}
+.field1,
+.field2 {
+  left: 56px;
+}
+.field2 {
+  left: 112px;
+}
+.rectangle3 {
+  height: 102%;
+  width: 102.17%;
+  top: -1%;
+  right: -1.09%;
+  bottom: -1%;
+  left: -1.09%;
+  border-radius: 8px;
+  border: 1px solid #cbcaca;
+  box-sizing: border-box;
+}
+.div5,
+.field3,
+.rectangle3 {
+  position: absolute;
+}
+.div5 {
+  top: calc(50% - 19px);
+  left: 34.78%;
+  font-weight: 600;
+  display: none;
+}
+.field3 {
+  top: 0;
+  left: 225px;
+  width: 46px;
+  height: 50px;
+  color: #003228;
+}
+.shadows-icon1 {
+  position: absolute;
+  top: 33px;
+  left: 6px;
+  border-radius: 100px;
+  width: 35px;
+  height: 11px;
+}
+.rectangle-copy-4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #7db1a4;
+  width: 46px;
+  height: 50px;
+}
+.rectangle4 {
+  position: absolute;
+  top: 13px;
+  left: 23px;
+  background-color: #fff;
+  width: 2px;
+  height: 24px;
+}
+.field4,
+.input-field {
+  position: absolute;
+  top: 0;
+  left: 168px;
+  width: 46px;
+  height: 50px;
+}
+.field4 {
+  top: -0.5px;
+  left: 280.5px;
+  border-radius: 8px;
+  border: 1px solid #cbcaca;
+  box-sizing: border-box;
+  width: 47px;
+  height: 51px;
+}
+.field-otp {
+  position: absolute;
+  top: 245px;
+  left: 24px;
+  width: 327px;
+  height: 50px;
+  display: none;
+  font-size: 24px;
+  color: #00664f;
+}
+.line,
+.line-child {
+  position: absolute;
+  left: 0;
+}
+.line-child {
+  height: calc(100% - 0.5px);
+  width: calc(100% - 297px);
+  top: 0;
+  right: 297px;
+  bottom: 0.5px;
+  background-color: #b7b7b7;
+}
+.line {
+  width: 990.91%;
+  top: 55px;
+  right: -890.91%;
+  height: 1px;
+  overflow: hidden;
+}
+.cgs119288 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 27.27%;
+}
+.filed-otp,
+.filed-otp1,
+.filed-otp2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 33px;
+  height: 56px;
+}
+.filed-otp1,
+.filed-otp2 {
+  left: 59px;
+}
+.filed-otp2 {
+  left: 118px;
+}
+.cgs1192883 {
+  position: absolute;
+  top: calc(50% - 10px);
+  left: 27.27%;
+  font-weight: 600;
+  display: none;
+}
+.field-otp1,
+.filed-otp3,
+.filed-otp4,
+.filed-otp5 {
+  position: absolute;
+  top: 0;
+  left: 177px;
+  width: 33px;
+  height: 56px;
+}
+.field-otp1,
+.filed-otp4,
+.filed-otp5 {
+  left: 236px;
+}
+.field-otp1,
+.filed-otp5 {
+  left: 295px;
+}
+.field-otp1 {
+  top: 234px;
+  left: 24px;
+  width: 328px;
+  text-align: left;
+  font-size: 24px;
+}
+.div6,
+.xxx-8998 {
+  left: 0;
+  font-weight: 600;
+}
+.xxx-8998 {
+  position: absolute;
+  top: calc(50% + 21px);
+}
+.div6 {
+  top: calc(50% - 8px);
+}
+.b,
+.div6,
+.title {
+  position: absolute;
+}
+.b {
+  top: calc(50% - 47px);
+  left: 0;
+  font-size: 20px;
+  color: #000;
+}
+.title {
+  top: 101px;
+  left: 24px;
+  width: 244px;
+  height: 94px;
+  overflow: hidden;
+  text-align: left;
+  color: #494949;
+}
+.background1 {
+  background-color: rgba(32, 32, 32, 0.92);
+  backdrop-filter: blur(54.37px);
+}
+.background,
+.background1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.home-indicator1 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: 100px;
+  background-color: #fff;
+  width: 134px;
+  height: 5px;
+}
+.home-indicator {
+  position: absolute;
+  height: 11.68%;
+  width: 100%;
+  top: 88.32%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.delete-icon {
+  position: relative;
+  width: 24px;
+  height: 17.99px;
+}
+.key-background-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div7,
+.number {
+  position: absolute;
+}
+.number {
+  width: 100%;
+  bottom: 9px;
+  left: 0;
+  letter-spacing: 0.29px;
+  display: inline-block;
+}
+.div7 {
+  height: 22.22%;
+  width: 32.23%;
+  top: 77.78%;
+  right: 33.88%;
+  bottom: 0;
+  left: 33.88%;
+  font-size: 25px;
+  font-family: "SF Pro Display";
+}
+.label,
+.number1 {
+  position: absolute;
+  width: 100%;
+  bottom: 5px;
+  left: 0;
+  letter-spacing: 2px;
+  display: inline-block;
+}
+.number1 {
+  bottom: 15px;
+  font-size: 25px;
+  letter-spacing: 0.29px;
+  font-family: "SF Pro Display";
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div8,
+.div9 {
+  position: absolute;
+  height: 22.71%;
+  width: 32.23%;
+  top: 51.69%;
+  right: 0;
+  bottom: 25.6%;
+  left: 67.77%;
+}
+.div10,
+.div11,
+.div12,
+.div13,
+.div9 {
+  right: 33.88%;
+  left: 33.88%;
+}
+.div10,
+.div11,
+.div12,
+.div13 {
+  right: 67.77%;
+  left: 0;
+}
+.div11,
+.div12,
+.div13 {
+  top: 25.6%;
+  right: 0;
+  bottom: 51.69%;
+  left: 67.77%;
+}
+.div12,
+.div13 {
+  right: 33.88%;
+  left: 33.88%;
+}
+.div13 {
+  right: 67.77%;
+  left: 0;
+}
+.div14,
+.div15 {
+  height: 22.22%;
+  width: 32.23%;
+  top: 0;
+  bottom: 77.78%;
+}
+.div14 {
+  position: absolute;
+  right: 0;
+  left: 67.77%;
+}
+.div15 {
+  right: 33.88%;
+  left: 33.88%;
+}
+.div15,
+.div16,
+.keys {
+  position: absolute;
+}
+.div16 {
+  height: 22.22%;
+  width: 32.23%;
+  top: 0;
+  right: 67.77%;
+  bottom: 77.78%;
+  left: 0;
+}
+.keys {
+  top: 6px;
+  left: 6px;
+  width: 363px;
+  height: 207px;
+}
+.systemkeyboardsiphonedarkn {
+  position: absolute;
+  top: 521px;
+  left: 0;
+  width: 375px;
+  height: 291px;
+  display: none;
+  cursor: pointer;
+  font-size: 10px;
+  color: #fff;
+  font-family: "SF Pro Text";
+}
+.background3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(205, 208, 212, 0.92);
+  backdrop-filter: blur(108.73px);
+}
+.home-indicator3 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 66.5px);
+  border-radius: 100px;
+  background-color: #000;
+  width: 134px;
+  height: 5px;
+}
+.key-background-icon10,
+.key-background-icon11 {
+  position: absolute;
+  height: 102.17%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: -2.17%;
+  left: 0;
+  border-radius: 5px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.key-background-icon11 {
+  height: 102.13%;
+  bottom: -2.13%;
+}
+.keys1 {
+  position: absolute;
+  height: 71.13%;
+  width: 96.8%;
+  top: 2.06%;
+  right: 1.6%;
+  bottom: 26.8%;
+  left: 1.6%;
+}
+.systemkeyboardsiphonedarkn1 {
+  position: absolute;
+  top: 521px;
+  left: 0;
+  width: 375px;
+  height: 291px;
+  font-size: 10px;
+  font-family: "SF Pro Text";
+}
+.border,
+.cap-icon {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.border {
+  top: 0;
+  right: 2.33px;
+  border-radius: 2.67px;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 22px;
+  height: 11.33px;
+  opacity: 0.35;
+}
+.cap-icon {
+  top: 3.67px;
+  right: 0;
+  width: 1.33px;
+  height: 4px;
+  opacity: 0.4;
+}
+.capacity {
+  position: absolute;
+  top: 2px;
+  right: 4.33px;
+  border-radius: 1.33px;
+  background-color: #000;
+  width: 18px;
+  height: 7.33px;
+}
+.battery {
+  position: absolute;
+  top: 17.33px;
+  right: 14.67px;
+  width: 24.33px;
+  height: 11.33px;
+}
+.wifi-icon {
+  position: relative;
+  width: 15.27px;
+  height: 10.97px;
+}
+.cellular-connection-icon {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.span {
+  letter-spacing: -0.28px;
+}
+.time,
+.time-style {
+  position: absolute;
+  width: 54px;
+}
+.time {
+  top: calc(50% - 7.5px);
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+}
+.time-style {
+  top: 13px;
+  left: 21px;
+  height: 21px;
+}
+.iphone-xstatus-barsstatus-ba1 {
+  position: absolute;
+  top: calc(50% - 22px);
+  left: calc(50% - 187.5px);
+  width: 375px;
+  height: 44px;
+  overflow: hidden;
+}
+.iphone-xstatus-barsstatus-ba {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 375px;
+  height: 44px;
+  font-size: 14px;
+  font-family: "SF Pro Text";
+}
+.home-indicator4 {
+  position: absolute;
+  bottom: 8px;
+  left: calc(50% - 67px);
+  border-radius: 100px;
+  background-color: #fff;
+  width: 134px;
+  height: 5px;
+}
+.barshome-indicatoriphonelig,
+.icoclose-icon {
+  position: absolute;
+  top: 778px;
+  left: 121px;
+  width: 134px;
+  height: 34px;
+}
+.icoclose-icon {
+  top: 57px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  cursor: pointer;
+}
+.login-2otp-2 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+  font-size: 15px;
+  color: #000;
+  font-family: "Sukhumvit Set";
+}
